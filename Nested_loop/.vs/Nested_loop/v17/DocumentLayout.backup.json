@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\Nested_loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919A4639-6D60-4250-BC05-ECF2451F1FDA}|Nested_loop\\Nested_loop.csproj|c:\\users\\saisa\\source\\repos\\nested_loop\\nested_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919A4639-6D60-4250-BC05-ECF2451F1FDA}|Nested_loop\\Nested_loop.csproj|solutionrelative:nested_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Nested_loop\\Nested_loop\\Program.cs",
+              "RelativeDocumentMoniker": "Nested_loop\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Nested_loop\\Nested_loop\\Program.cs*",
+              "RelativeToolTip": "Nested_loop\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:13:39.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

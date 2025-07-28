@@ -1,0 +1,14 @@
+C:\Users\saisa\source\repos\Atm\Atm\bin\Debug\net8.0\Atm.exe
+C:\Users\saisa\source\repos\Atm\Atm\bin\Debug\net8.0\Atm.deps.json
+C:\Users\saisa\source\repos\Atm\Atm\bin\Debug\net8.0\Atm.runtimeconfig.json
+C:\Users\saisa\source\repos\Atm\Atm\bin\Debug\net8.0\Atm.dll
+C:\Users\saisa\source\repos\Atm\Atm\bin\Debug\net8.0\Atm.pdb
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.AssemblyInfo.cs
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.dll
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\refint\Atm.dll
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.pdb
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\Atm.genruntimeconfig.cache
+C:\Users\saisa\source\repos\Atm\Atm\obj\Debug\net8.0\ref\Atm.dll

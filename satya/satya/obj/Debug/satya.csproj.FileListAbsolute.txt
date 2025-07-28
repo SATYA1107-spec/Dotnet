@@ -1,0 +1,7 @@
+C:\Users\saisa\source\repos\satya\satya\obj\Debug\satya.csproj.AssemblyReference.cache
+C:\Users\saisa\source\repos\satya\satya\obj\Debug\satya.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\satya\satya\bin\Debug\satya.exe.config
+C:\Users\saisa\source\repos\satya\satya\bin\Debug\satya.exe
+C:\Users\saisa\source\repos\satya\satya\bin\Debug\satya.pdb
+C:\Users\saisa\source\repos\satya\satya\obj\Debug\satya.exe
+C:\Users\saisa\source\repos\satya\satya\obj\Debug\satya.pdb

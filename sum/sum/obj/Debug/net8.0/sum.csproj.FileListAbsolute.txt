@@ -1,0 +1,14 @@
+C:\Users\saisa\source\repos\sum\sum\bin\Debug\net8.0\sum.exe
+C:\Users\saisa\source\repos\sum\sum\bin\Debug\net8.0\sum.deps.json
+C:\Users\saisa\source\repos\sum\sum\bin\Debug\net8.0\sum.runtimeconfig.json
+C:\Users\saisa\source\repos\sum\sum\bin\Debug\net8.0\sum.dll
+C:\Users\saisa\source\repos\sum\sum\bin\Debug\net8.0\sum.pdb
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.AssemblyInfo.cs
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.dll
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\refint\sum.dll
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.pdb
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
+C:\Users\saisa\source\repos\sum\sum\obj\Debug\net8.0\ref\sum.dll

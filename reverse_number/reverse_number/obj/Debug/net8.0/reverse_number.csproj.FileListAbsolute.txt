@@ -1,0 +1,14 @@
+C:\Users\saisa\source\repos\reverse_number\reverse_number\bin\Debug\net8.0\reverse_number.exe
+C:\Users\saisa\source\repos\reverse_number\reverse_number\bin\Debug\net8.0\reverse_number.deps.json
+C:\Users\saisa\source\repos\reverse_number\reverse_number\bin\Debug\net8.0\reverse_number.runtimeconfig.json
+C:\Users\saisa\source\repos\reverse_number\reverse_number\bin\Debug\net8.0\reverse_number.dll
+C:\Users\saisa\source\repos\reverse_number\reverse_number\bin\Debug\net8.0\reverse_number.pdb
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.AssemblyInfo.cs
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.dll
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\refint\reverse_number.dll
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.pdb
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\reverse_number.genruntimeconfig.cache
+C:\Users\saisa\source\repos\reverse_number\reverse_number\obj\Debug\net8.0\ref\reverse_number.dll

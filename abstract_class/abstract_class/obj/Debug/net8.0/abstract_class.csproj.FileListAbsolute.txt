@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.AssemblyInfo.cs
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.sourcelink.json
+C:\Users\saisa\source\repos\abstract_class\abstract_class\bin\Debug\net8.0\abstract_class.exe
+C:\Users\saisa\source\repos\abstract_class\abstract_class\bin\Debug\net8.0\abstract_class.deps.json
+C:\Users\saisa\source\repos\abstract_class\abstract_class\bin\Debug\net8.0\abstract_class.runtimeconfig.json
+C:\Users\saisa\source\repos\abstract_class\abstract_class\bin\Debug\net8.0\abstract_class.dll
+C:\Users\saisa\source\repos\abstract_class\abstract_class\bin\Debug\net8.0\abstract_class.pdb
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.dll
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\refint\abstract_class.dll
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.pdb
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\abstract_class.genruntimeconfig.cache
+C:\Users\saisa\source\repos\abstract_class\abstract_class\obj\Debug\net8.0\ref\abstract_class.dll

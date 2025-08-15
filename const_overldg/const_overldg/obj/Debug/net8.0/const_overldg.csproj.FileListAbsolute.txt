@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\const_overldg\const_overldg\bin\Debug\net8.0\const_overldg.exe
+C:\Users\saisa\source\repos\const_overldg\const_overldg\bin\Debug\net8.0\const_overldg.deps.json
+C:\Users\saisa\source\repos\const_overldg\const_overldg\bin\Debug\net8.0\const_overldg.runtimeconfig.json
+C:\Users\saisa\source\repos\const_overldg\const_overldg\bin\Debug\net8.0\const_overldg.dll
+C:\Users\saisa\source\repos\const_overldg\const_overldg\bin\Debug\net8.0\const_overldg.pdb
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.AssemblyInfo.cs
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.sourcelink.json
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.dll
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\refint\const_overldg.dll
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.pdb
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\const_overldg.genruntimeconfig.cache
+C:\Users\saisa\source\repos\const_overldg\const_overldg\obj\Debug\net8.0\ref\const_overldg.dll

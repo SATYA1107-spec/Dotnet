@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\bin\Debug\net8.0\MatrixMUl.exe
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\bin\Debug\net8.0\MatrixMUl.deps.json
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\bin\Debug\net8.0\MatrixMUl.runtimeconfig.json
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\bin\Debug\net8.0\MatrixMUl.dll
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\bin\Debug\net8.0\MatrixMUl.pdb
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.AssemblyInfo.cs
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.sourcelink.json
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.dll
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\refint\MatrixMUl.dll
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.pdb
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\MatrixMUl.genruntimeconfig.cache
+C:\Users\saisa\source\repos\MatrixMUl\MatrixMUl\obj\Debug\net8.0\ref\MatrixMUl.dll

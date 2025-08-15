@@ -2,13 +2,13 @@
 
 interface prime_Number
 {
-    void Number();
+   public void Number();
 }
 class A : prime_Number
 {
     public void Number()
     {
-        Console.WriteLine("enter prime number");
+        Console.WriteLine("enter  any number");
         int n =int .Parse(Console.ReadLine());
         if (n % 2 == 0)
         {

@@ -3,9 +3,14 @@ using System.Numerics;
 
  abstract class A
 {
-    public int x = 10;
-    public int y = 20;
+    public int x = 23;
+    public int y  =45;
     public abstract void Math();
+
+    public void display(int x, int y)
+    {
+        Console.WriteLine(x*y);
+    }
 
 }
 class B: A
@@ -32,5 +37,8 @@ class Program
 
         b.Math();
         c.Math();
+        b.display(4,5);
+       
     }
+
 }

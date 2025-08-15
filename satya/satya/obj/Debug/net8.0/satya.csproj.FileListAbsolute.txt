@@ -1,4 +1,0 @@
-C:\Users\saisa\source\repos\satya\satya\obj\Debug\net8.0\satya.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\saisa\source\repos\satya\satya\obj\Debug\net8.0\satya.AssemblyInfoInputs.cache
-C:\Users\saisa\source\repos\satya\satya\obj\Debug\net8.0\satya.AssemblyInfo.cs
-C:\Users\saisa\source\repos\satya\satya\obj\Debug\net8.0\satya.csproj.CoreCompileInputs.cache

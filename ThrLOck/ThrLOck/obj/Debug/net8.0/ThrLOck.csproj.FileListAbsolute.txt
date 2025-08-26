@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\bin\Debug\net8.0\ThrLOck.exe
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\bin\Debug\net8.0\ThrLOck.deps.json
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\bin\Debug\net8.0\ThrLOck.runtimeconfig.json
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\bin\Debug\net8.0\ThrLOck.dll
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\bin\Debug\net8.0\ThrLOck.pdb
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.AssemblyInfo.cs
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.sourcelink.json
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.dll
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\refint\ThrLOck.dll
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.pdb
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ThrLOck.genruntimeconfig.cache
+C:\Users\saisa\source\repos\ThrLOck\ThrLOck\obj\Debug\net8.0\ref\ThrLOck.dll

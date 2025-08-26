@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\bin\Debug\net8.0\JOINT_ACC_Thread.exe
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\bin\Debug\net8.0\JOINT_ACC_Thread.deps.json
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\bin\Debug\net8.0\JOINT_ACC_Thread.runtimeconfig.json
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\bin\Debug\net8.0\JOINT_ACC_Thread.dll
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\bin\Debug\net8.0\JOINT_ACC_Thread.pdb
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.AssemblyInfo.cs
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.sourcelink.json
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.dll
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\refint\JOINT_ACC_Thread.dll
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.pdb
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\JOINT_ACC_Thread.genruntimeconfig.cache
+C:\Users\saisa\source\repos\JOINT_ACC_Thread\JOINT_ACC_Thread\obj\Debug\net8.0\ref\JOINT_ACC_Thread.dll

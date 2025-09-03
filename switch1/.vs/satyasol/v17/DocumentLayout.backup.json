@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\satyasol\\",
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\switch1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0DFB91F-3588-4863-B49C-AB0089FD3BEF}|satya\\satya.csproj|c:\\users\\saisa\\source\\repos\\satyasol\\satya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0DFB91F-3588-4863-B49C-AB0089FD3BEF}|satya\\satya.csproj|c:\\users\\saisa\\source\\repos\\switch1\\satya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0DFB91F-3588-4863-B49C-AB0089FD3BEF}|satya\\satya.csproj|solutionrelative:satya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\satyasol\\satya\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\switch1\\satya\\Program.cs",
               "RelativeDocumentMoniker": "satya\\Program.cs",
-              "ToolTip": "C:\\Users\\saisa\\source\\repos\\satyasol\\satya\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\switch1\\satya\\Program.cs",
               "RelativeToolTip": "satya\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T13:11:17.64Z",
               "EditorCaption": ""

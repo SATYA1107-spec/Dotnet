@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_meter", "Auto_meter\Auto_meter.csproj", "{5633E5AC-9C6E-4800-9A96-B66BD9BC2515}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto_meter", "auto_meter\auto_meter.csproj", "{BDCEC8AE-76E6-4FCC-96FD-F8AE43D475B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5633E5AC-9C6E-4800-9A96-B66BD9BC2515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5633E5AC-9C6E-4800-9A96-B66BD9BC2515}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5633E5AC-9C6E-4800-9A96-B66BD9BC2515}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5633E5AC-9C6E-4800-9A96-B66BD9BC2515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCEC8AE-76E6-4FCC-96FD-F8AE43D475B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCEC8AE-76E6-4FCC-96FD-F8AE43D475B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCEC8AE-76E6-4FCC-96FD-F8AE43D475B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCEC8AE-76E6-4FCC-96FD-F8AE43D475B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {875ECED1-B7B7-43F4-96F8-6ED0B2AC536A}
+		SolutionGuid = {32BB3515-537F-4421-A69F-E0F94BA46E3A}
 	EndGlobalSection
 EndGlobal

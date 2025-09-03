@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\bin\Debug\net8.0\Train_Tickets.exe
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\bin\Debug\net8.0\Train_Tickets.deps.json
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\bin\Debug\net8.0\Train_Tickets.runtimeconfig.json
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\bin\Debug\net8.0\Train_Tickets.dll
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\bin\Debug\net8.0\Train_Tickets.pdb
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.AssemblyInfo.cs
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.sourcelink.json
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.dll
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\refint\Train_Tickets.dll
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.pdb
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\Train_Tickets.genruntimeconfig.cache
+C:\Users\saisa\source\repos\Train_Tickets\Train_Tickets\obj\Debug\net8.0\ref\Train_Tickets.dll

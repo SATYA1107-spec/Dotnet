@@ -7,7 +7,7 @@ class Auto_meter
         Console.WriteLine("Enter Number of Kilometes Travelled");
         int km = int.Parse(Console.ReadLine());
 
-        if (km >=0 && km>=10)
+        if (km >= 0 && km >= 10)
         {
             if (km >= 10 && km >= 20)
             {
@@ -17,7 +17,7 @@ class Auto_meter
                     {
                         if (km >= 50 && km >= 80)
                         {
-                           if (km >= 100)
+                            if (km >= 100)
                             {
                                 Console.WriteLine("Over 100 km the price should be :1500 ");
                             }

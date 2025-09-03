@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saisa\\source\\repos\\Auto_meter\\Auto_meter\\Auto_meter.csproj": {}
+    "C:\\Users\\saisa\\source\\repos\\Auto_meter\\auto_meter\\auto_meter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saisa\\source\\repos\\Auto_meter\\Auto_meter\\Auto_meter.csproj": {
+    "C:\\Users\\saisa\\source\\repos\\Auto_meter\\auto_meter\\auto_meter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saisa\\source\\repos\\Auto_meter\\Auto_meter\\Auto_meter.csproj",
-        "projectName": "Auto_meter",
-        "projectPath": "C:\\Users\\saisa\\source\\repos\\Auto_meter\\Auto_meter\\Auto_meter.csproj",
+        "projectUniqueName": "C:\\Users\\saisa\\source\\repos\\Auto_meter\\auto_meter\\auto_meter.csproj",
+        "projectName": "auto_meter",
+        "projectPath": "C:\\Users\\saisa\\source\\repos\\Auto_meter\\auto_meter\\auto_meter.csproj",
         "packagesPath": "C:\\Users\\saisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saisa\\source\\repos\\Auto_meter\\Auto_meter\\obj\\",
+        "outputPath": "C:\\Users\\saisa\\source\\repos\\auto_meter\\auto_meter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

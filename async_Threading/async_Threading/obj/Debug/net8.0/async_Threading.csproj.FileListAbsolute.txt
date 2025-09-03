@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\async_Threading\async_Threading\bin\Debug\net8.0\async_Threading.exe
+C:\Users\saisa\source\repos\async_Threading\async_Threading\bin\Debug\net8.0\async_Threading.deps.json
+C:\Users\saisa\source\repos\async_Threading\async_Threading\bin\Debug\net8.0\async_Threading.runtimeconfig.json
+C:\Users\saisa\source\repos\async_Threading\async_Threading\bin\Debug\net8.0\async_Threading.dll
+C:\Users\saisa\source\repos\async_Threading\async_Threading\bin\Debug\net8.0\async_Threading.pdb
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.AssemblyInfo.cs
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.sourcelink.json
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.dll
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\refint\async_Threading.dll
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.pdb
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\async_Threading.genruntimeconfig.cache
+C:\Users\saisa\source\repos\async_Threading\async_Threading\obj\Debug\net8.0\ref\async_Threading.dll

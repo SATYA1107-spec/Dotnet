@@ -8,11 +8,14 @@ class Sample
     {
         Thread th = Thread.CurrentThread;
         th.Name = "Main_thread";
-      /*  Thread t1 = new Thread(upcount);
-        Thread t2 = new Thread(Downcount);
-        t1.Start();
-        t2.Start();
-        Console.WriteLine($"{th.Name} Completed");*/
+      // Thread t1 = new Thread(upcount);
+      //  Thread t2 = new Thread(Downcount);
+      //  t1.Start();
+      //  t2.Start();
+       Console.WriteLine($"{th.Name} Completed");
+        upcount();
+        Downcount();
+
 
     }
 
@@ -21,7 +24,7 @@ class Sample
         for (int i = 1; i <= 10; i++)
         {
             Console.WriteLine("UPcount Thread" + i);
-            Thread.Sleep(1000);
+            
         }
         Console.WriteLine("upcount thread Completed");
     }
@@ -30,7 +33,7 @@ class Sample
         for (int i = 10; i >= 1; i--)
         {
             Console.WriteLine("DownCount Thread"+ i);
-            Thread.Sleep(1000);
+           
         }
         Console.WriteLine("downcount thread completed");
     }

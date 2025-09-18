@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\bin\Debug\net8.0\Counter_threading.exe
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\bin\Debug\net8.0\Counter_threading.deps.json
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\bin\Debug\net8.0\Counter_threading.runtimeconfig.json
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\bin\Debug\net8.0\Counter_threading.dll
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\bin\Debug\net8.0\Counter_threading.pdb
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.AssemblyInfo.cs
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.sourcelink.json
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.dll
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\refint\Counter_threading.dll
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.pdb
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\Counter_threading.genruntimeconfig.cache
+C:\Users\saisa\source\repos\Counter_threading\Counter_threading\obj\Debug\net8.0\ref\Counter_threading.dll

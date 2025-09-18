@@ -1,16 +1,25 @@
 ﻿using System;
+using System.Collections;
 
-class Satya
+class tst
 {
     public static void Main(string[] args)
     {
-        int n = 30;
-        while (n >= 1)
-        {
-            Console.WriteLine(n);
-            n--;
+        Stack sa = new Stack();
+        sa.Push(1);
+        sa.Push(2);
+        sa.Push(3);
+        sa.Push(4);
+        sa.Push(5);
+        sa.Push(6);
 
-        }
+        foreach (int ia in sa)
+        Console.WriteLine(ia);
+        Console.WriteLine("...............................");
+      
+
+        Console.WriteLine(sa.Equals(sa));
+
 
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\Deligates\Deligates\bin\Debug\net8.0\Deligates.exe
+C:\Users\saisa\source\repos\Deligates\Deligates\bin\Debug\net8.0\Deligates.deps.json
+C:\Users\saisa\source\repos\Deligates\Deligates\bin\Debug\net8.0\Deligates.runtimeconfig.json
+C:\Users\saisa\source\repos\Deligates\Deligates\bin\Debug\net8.0\Deligates.dll
+C:\Users\saisa\source\repos\Deligates\Deligates\bin\Debug\net8.0\Deligates.pdb
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.AssemblyInfo.cs
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.sourcelink.json
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.dll
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\refint\Deligates.dll
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.pdb
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\Deligates.genruntimeconfig.cache
+C:\Users\saisa\source\repos\Deligates\Deligates\obj\Debug\net8.0\ref\Deligates.dll

@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\tese1\tese1\bin\Debug\net8.0\tese1.exe
+C:\Users\saisa\source\repos\tese1\tese1\bin\Debug\net8.0\tese1.deps.json
+C:\Users\saisa\source\repos\tese1\tese1\bin\Debug\net8.0\tese1.runtimeconfig.json
+C:\Users\saisa\source\repos\tese1\tese1\bin\Debug\net8.0\tese1.dll
+C:\Users\saisa\source\repos\tese1\tese1\bin\Debug\net8.0\tese1.pdb
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.AssemblyInfo.cs
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.sourcelink.json
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.dll
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\refint\tese1.dll
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.pdb
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\tese1.genruntimeconfig.cache
+C:\Users\saisa\source\repos\tese1\tese1\obj\Debug\net8.0\ref\tese1.dll

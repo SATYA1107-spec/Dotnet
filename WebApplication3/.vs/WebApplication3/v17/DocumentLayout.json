@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|c:\\users\\saisa\\source\\repos\\webapplication3\\webapplication3\\views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|c:\\users\\saisa\\source\\repos\\webapplication3\\webapplication3\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|c:\\users\\saisa\\source\\repos\\webapplication3\\webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|c:\\users\\saisa\\source\\repos\\webapplication3\\webapplication3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8999C9-E3D2-4F40-96D8-0EB45F7F949D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:39:33.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Student\\Student.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Student\\Student.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Student\\Student.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T00:10:10.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Student\\details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Student\\details.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Student\\details.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Student\\details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T00:10:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:56:20.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\bin\Debug\net8.0\methodoverriding.exe
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\bin\Debug\net8.0\methodoverriding.deps.json
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\bin\Debug\net8.0\methodoverriding.runtimeconfig.json
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\bin\Debug\net8.0\methodoverriding.dll
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\bin\Debug\net8.0\methodoverriding.pdb
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.AssemblyInfo.cs
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.sourcelink.json
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.dll
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\refint\methodoverriding.dll
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.pdb
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\methodoverriding.genruntimeconfig.cache
+C:\Users\saisa\source\repos\methodoverriding\methodoverriding\obj\Debug\net8.0\ref\methodoverriding.dll

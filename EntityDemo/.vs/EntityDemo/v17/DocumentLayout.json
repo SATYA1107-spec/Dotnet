@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|c:\\users\\saisa\\source\\repos\\entitydemo\\entitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|c:\\users\\saisa\\source\\repos\\entitydemo\\entitydemo\\dbcontext\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\dbcontext\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|c:\\users\\saisa\\source\\repos\\entitydemo\\entitydemo\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|c:\\users\\saisa\\source\\repos\\entitydemo\\entitydemo\\migrations\\20251014120344_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\migrations\\20251014120344_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|c:\\users\\saisa\\source\\repos\\entitydemo\\entitydemo\\entitydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{628DFB19-6534-4424-9A72-877E57A8B9BE}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\entitydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251014120344_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Migrations\\20251014120344_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\Migrations\\20251014120344_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Migrations\\20251014120344_InitialCreate.cs",
+              "RelativeToolTip": "EntityDemo\\Migrations\\20251014120344_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:03:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\data\\Student.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\data\\Student.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\data\\Student.cs",
+              "RelativeToolTip": "EntityDemo\\data\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:57:26.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Dbcontext\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\Dbcontext\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Dbcontext\\SchoolContext.cs",
+              "RelativeToolTip": "EntityDemo\\Dbcontext\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:59:31.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
+              "RelativeDocumentMoniker": "EntityDemo\\EntityDemo.csproj",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
+              "RelativeToolTip": "EntityDemo\\EntityDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T11:58:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EntityDemo\\EntityDemo\\Program.cs",
+              "RelativeToolTip": "EntityDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:53:45.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

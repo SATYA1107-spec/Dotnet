@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\StructuresDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68047A6-1A58-47AD-B45E-381119BF0662}|StructuresDemo\\StructuresDemo.csproj|c:\\users\\saisa\\source\\repos\\structuresdemo\\structuresdemo\\enumsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68047A6-1A58-47AD-B45E-381119BF0662}|StructuresDemo\\StructuresDemo.csproj|solutionrelative:structuresdemo\\enumsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68047A6-1A58-47AD-B45E-381119BF0662}|StructuresDemo\\StructuresDemo.csproj|c:\\users\\saisa\\source\\repos\\structuresdemo\\structuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68047A6-1A58-47AD-B45E-381119BF0662}|StructuresDemo\\StructuresDemo.csproj|solutionrelative:structuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enumsdemo.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\StructuresDemo\\StructuresDemo\\Enumsdemo.cs",
+              "RelativeDocumentMoniker": "StructuresDemo\\Enumsdemo.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\StructuresDemo\\StructuresDemo\\Enumsdemo.cs",
+              "RelativeToolTip": "StructuresDemo\\Enumsdemo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:30:19.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\StructuresDemo\\StructuresDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StructuresDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\StructuresDemo\\StructuresDemo\\Program.cs",
+              "RelativeToolTip": "StructuresDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T05:36:57.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

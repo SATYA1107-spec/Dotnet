@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|c:\\users\\saisa\\source\\repos\\entitydemo1\\entitydemo1\\dbcontext\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|solutionrelative:entitydemo1\\dbcontext\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|c:\\users\\saisa\\source\\repos\\entitydemo1\\entitydemo1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|solutionrelative:entitydemo1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|c:\\users\\saisa\\source\\repos\\entitydemo1\\entitydemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|solutionrelative:entitydemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|c:\\users\\saisa\\source\\repos\\entitydemo1\\entitydemo1\\migrations\\20251016055245_inatialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200A350-4B2F-44BA-B724-7B91F95703A7}|Entitydemo1\\Entitydemo1.csproj|solutionrelative:entitydemo1\\migrations\\20251016055245_inatialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\dbcontext\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Entitydemo1\\dbcontext\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\dbcontext\\ShopContext.cs",
+              "RelativeToolTip": "Entitydemo1\\dbcontext\\ShopContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:16:17.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251016055245_InatialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\Migrations\\20251016055245_InatialCreate.cs",
+              "RelativeDocumentMoniker": "Entitydemo1\\Migrations\\20251016055245_InatialCreate.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\Migrations\\20251016055245_InatialCreate.cs",
+              "RelativeToolTip": "Entitydemo1\\Migrations\\20251016055245_InatialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:52:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\model\\Product.cs",
+              "RelativeDocumentMoniker": "Entitydemo1\\model\\Product.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\model\\Product.cs",
+              "RelativeToolTip": "Entitydemo1\\model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:14:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\Program.cs",
+              "RelativeDocumentMoniker": "Entitydemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Entitydemo1\\Entitydemo1\\Program.cs",
+              "RelativeToolTip": "Entitydemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:11:02.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

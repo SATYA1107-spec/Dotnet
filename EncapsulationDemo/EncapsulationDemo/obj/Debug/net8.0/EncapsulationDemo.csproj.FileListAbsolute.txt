@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\net8.0\EncapsulationDemo.exe
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\net8.0\EncapsulationDemo.deps.json
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\net8.0\EncapsulationDemo.runtimeconfig.json
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\net8.0\EncapsulationDemo.dll
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\net8.0\EncapsulationDemo.pdb
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfo.cs
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.sourcelink.json
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.dll
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\refint\EncapsulationDemo.dll
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.pdb
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.genruntimeconfig.cache
+C:\Users\saisa\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\net8.0\ref\EncapsulationDemo.dll

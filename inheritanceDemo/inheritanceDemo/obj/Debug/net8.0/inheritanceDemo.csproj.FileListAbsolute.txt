@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\bin\Debug\net8.0\inheritanceDemo.exe
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\bin\Debug\net8.0\inheritanceDemo.deps.json
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\bin\Debug\net8.0\inheritanceDemo.runtimeconfig.json
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\bin\Debug\net8.0\inheritanceDemo.dll
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\bin\Debug\net8.0\inheritanceDemo.pdb
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.AssemblyInfo.cs
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.sourcelink.json
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.dll
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\refint\inheritanceDemo.dll
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.pdb
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\inheritanceDemo.genruntimeconfig.cache
+C:\Users\saisa\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\net8.0\ref\inheritanceDemo.dll

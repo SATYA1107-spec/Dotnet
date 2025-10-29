@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|c:\\users\\saisa\\source\\repos\\multithreadingdemo\\multithreadingdemo\\constructorthreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|solutionrelative:multithreadingdemo\\constructorthreadclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|c:\\users\\saisa\\source\\repos\\multithreadingdemo\\multithreadingdemo\\multithreadingdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|solutionrelative:multithreadingdemo\\multithreadingdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|c:\\users\\saisa\\source\\repos\\multithreadingdemo\\multithreadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24319D1E-E0F5-4F30-AA6A-130CDB16C542}|MultiThreadingDemo\\MultiThreadingDemo.csproj|solutionrelative:multithreadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiThreadingDemo",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
+              "RelativeDocumentMoniker": "MultiThreadingDemo\\MultiThreadingDemo.csproj",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
+              "RelativeToolTip": "MultiThreadingDemo\\MultiThreadingDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T10:29:23.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConstructorThreadclass.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\ConstructorThreadclass.cs",
+              "RelativeDocumentMoniker": "MultiThreadingDemo\\ConstructorThreadclass.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\ConstructorThreadclass.cs",
+              "RelativeToolTip": "MultiThreadingDemo\\ConstructorThreadclass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:36:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreadingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\MultiThreadingDemo\\MultiThreadingDemo\\Program.cs",
+              "RelativeToolTip": "MultiThreadingDemo\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:31:28.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

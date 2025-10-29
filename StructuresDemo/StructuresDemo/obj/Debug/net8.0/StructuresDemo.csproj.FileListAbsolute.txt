@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\bin\Debug\net8.0\StructuresDemo.exe
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\bin\Debug\net8.0\StructuresDemo.deps.json
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\bin\Debug\net8.0\StructuresDemo.runtimeconfig.json
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\bin\Debug\net8.0\StructuresDemo.dll
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\bin\Debug\net8.0\StructuresDemo.pdb
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.AssemblyInfo.cs
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.sourcelink.json
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.dll
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\refint\StructuresDemo.dll
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.pdb
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\StructuresDemo.genruntimeconfig.cache
+C:\Users\saisa\source\repos\StructuresDemo\StructuresDemo\obj\Debug\net8.0\ref\StructuresDemo.dll

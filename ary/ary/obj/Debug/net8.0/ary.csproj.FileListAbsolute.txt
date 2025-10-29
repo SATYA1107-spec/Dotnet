@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.AssemblyInfo.cs
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.sourcelink.json
+C:\Users\saisa\source\repos\ary\ary\bin\Debug\net8.0\ary.exe
+C:\Users\saisa\source\repos\ary\ary\bin\Debug\net8.0\ary.deps.json
+C:\Users\saisa\source\repos\ary\ary\bin\Debug\net8.0\ary.runtimeconfig.json
+C:\Users\saisa\source\repos\ary\ary\bin\Debug\net8.0\ary.dll
+C:\Users\saisa\source\repos\ary\ary\bin\Debug\net8.0\ary.pdb
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.dll
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\refint\ary.dll
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.pdb
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ary.genruntimeconfig.cache
+C:\Users\saisa\source\repos\ary\ary\obj\Debug\net8.0\ref\ary.dll

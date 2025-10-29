@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|solutionrelative:deligates\\multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|c:\\users\\saisa\\source\\repos\\deligates\\deligates\\deligates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|solutionrelative:deligates\\deligates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|c:\\users\\saisa\\source\\repos\\deligates\\deligates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|solutionrelative:deligates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|c:\\users\\saisa\\source\\repos\\deligates\\deligates\\deligates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3CACA366-A8EC-4751-ACF0-963AA6B39F9D}|Deligates\\Deligates.csproj|solutionrelative:deligates\\deligates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +30,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Deligates",
               "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Deligates.csproj",
               "RelativeDocumentMoniker": "Deligates\\Deligates.csproj",
               "ToolTip": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Deligates.csproj",
               "RelativeToolTip": "Deligates\\Deligates.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-16T13:07:27.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T13:07:27.284Z"
             },
             {
               "$type": "Document",
@@ -54,8 +57,8 @@
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Class1.cs",
               "RelativeDocumentMoniker": "Deligates\\Class1.cs",
-              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Class1.cs*",
-              "RelativeToolTip": "Deligates\\Class1.cs*",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Class1.cs",
+              "RelativeToolTip": "Deligates\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:13:49.967Z",
@@ -82,14 +85,14 @@
               "RelativeDocumentMoniker": "Deligates\\lambda.cs",
               "ToolTip": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\lambda.cs",
               "RelativeToolTip": "Deligates\\lambda.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T05:59:57.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\Deligates\\Deligates\\Program.cs",
               "RelativeDocumentMoniker": "Deligates\\Program.cs",

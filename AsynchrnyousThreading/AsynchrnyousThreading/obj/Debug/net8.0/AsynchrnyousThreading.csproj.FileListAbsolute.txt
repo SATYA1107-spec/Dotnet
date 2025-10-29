@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\bin\Debug\net8.0\AsynchrnyousThreading.exe
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\bin\Debug\net8.0\AsynchrnyousThreading.deps.json
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\bin\Debug\net8.0\AsynchrnyousThreading.runtimeconfig.json
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\bin\Debug\net8.0\AsynchrnyousThreading.dll
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\bin\Debug\net8.0\AsynchrnyousThreading.pdb
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.AssemblyInfo.cs
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.sourcelink.json
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.dll
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\refint\AsynchrnyousThreading.dll
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.pdb
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\AsynchrnyousThreading.genruntimeconfig.cache
+C:\Users\saisa\source\repos\AsynchrnyousThreading\AsynchrnyousThreading\obj\Debug\net8.0\ref\AsynchrnyousThreading.dll

@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\bin\Debug\net8.0\StringvsStringbuilder.exe
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\bin\Debug\net8.0\StringvsStringbuilder.deps.json
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\bin\Debug\net8.0\StringvsStringbuilder.runtimeconfig.json
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\bin\Debug\net8.0\StringvsStringbuilder.dll
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\bin\Debug\net8.0\StringvsStringbuilder.pdb
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.AssemblyInfo.cs
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.sourcelink.json
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.dll
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\refint\StringvsStringbuilder.dll
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.pdb
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\StringvsStringbuilder.genruntimeconfig.cache
+C:\Users\saisa\source\repos\StringvsStringbuilder\StringvsStringbuilder\obj\Debug\net8.0\ref\StringvsStringbuilder.dll

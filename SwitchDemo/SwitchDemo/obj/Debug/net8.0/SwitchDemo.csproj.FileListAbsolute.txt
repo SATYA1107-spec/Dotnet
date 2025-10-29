@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\bin\Debug\net8.0\SwitchDemo.exe
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\bin\Debug\net8.0\SwitchDemo.deps.json
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\bin\Debug\net8.0\SwitchDemo.runtimeconfig.json
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\bin\Debug\net8.0\SwitchDemo.dll
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\bin\Debug\net8.0\SwitchDemo.pdb
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.AssemblyInfo.cs
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.sourcelink.json
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.dll
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\refint\SwitchDemo.dll
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.pdb
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\SwitchDemo.genruntimeconfig.cache
+C:\Users\saisa\source\repos\SwitchDemo\SwitchDemo\obj\Debug\net8.0\ref\SwitchDemo.dll

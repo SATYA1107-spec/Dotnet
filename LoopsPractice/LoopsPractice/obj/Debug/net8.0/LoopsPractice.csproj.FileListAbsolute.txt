@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\bin\Debug\net8.0\LoopsPractice.exe
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\bin\Debug\net8.0\LoopsPractice.deps.json
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\bin\Debug\net8.0\LoopsPractice.runtimeconfig.json
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\bin\Debug\net8.0\LoopsPractice.dll
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\bin\Debug\net8.0\LoopsPractice.pdb
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.AssemblyInfo.cs
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.sourcelink.json
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.dll
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\refint\LoopsPractice.dll
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.pdb
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\LoopsPractice.genruntimeconfig.cache
+C:\Users\saisa\source\repos\LoopsPractice\LoopsPractice\obj\Debug\net8.0\ref\LoopsPractice.dll

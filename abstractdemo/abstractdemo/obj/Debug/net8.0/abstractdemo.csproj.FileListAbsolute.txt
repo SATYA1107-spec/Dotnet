@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\bin\Debug\net8.0\abstractdemo.exe
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\bin\Debug\net8.0\abstractdemo.deps.json
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\bin\Debug\net8.0\abstractdemo.runtimeconfig.json
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\bin\Debug\net8.0\abstractdemo.dll
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\bin\Debug\net8.0\abstractdemo.pdb
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.AssemblyInfo.cs
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.sourcelink.json
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.dll
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\refint\abstractdemo.dll
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.pdb
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\abstractdemo.genruntimeconfig.cache
+C:\Users\saisa\source\repos\abstractdemo\abstractdemo\obj\Debug\net8.0\ref\abstractdemo.dll

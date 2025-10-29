@@ -1,52 +1,33 @@
 ﻿using System;
+using System.Text;
 
-interface prime_Number
+namespace Interfacedemo
 {
-   public void Number();
-}
-class A : prime_Number
-{
-    public void Number()
+    interface Testinterface1
     {
-        Console.WriteLine("enter  any number");
-        int n =int .Parse(Console.ReadLine());
-        if (n % 2 == 0)
-        {
-            Console.WriteLine("Entered number is Prime number");
-        }
-        else
-        {
-            Console.WriteLine("given number is not a prime number");
-        }
         
-
+         public void Car(int speed, string Model_name, int Milage);
     }
-}
-class B : prime_Number
-{
-    public void Number()
+    interface Testinterface2:Testinterface1
     {
-        Console.WriteLine("enter odd number");
-        int o =int .Parse(Console.ReadLine());
-        if (o % 2 != 0)
-        {
-            Console.WriteLine("entered number is odd number");
-        }
-        else
-        {
-            Console.WriteLine("entered number is not a odd number "+o);
-        }
+        void Bike(int speed, string Model_name, int Milage);
     }
-}
-
-class Satya
-{
-    public static void Main(string[] args)
+    class Implimentationclass:Testinterface2
     {
-        A a = new A();
-        B b = new B();
-
-        a.Number();
-        b.Number();
+          public void Car(int speed, string Model_name, int Milage)
+        {
+            Console.WriteLine($" This speed of the Car is {speed} and model name is {Model_name} and the milage {Milage}");
+        }
+         void Testinterface2.Bike(int speed, string Model_name, int Milage)
+        {
+            Console.WriteLine($" This speed of the Bike is {speed} and model name is {Model_name} and the milage {Milage}");
+        }
+        public static void Main(string[] args)
+        {
+            Implimentationclass ic = new Implimentationclass();
+            ic.Car(200, "rangerover", 18);
+            ((Testinterface2) ic).Bike(80, "unicorn", 45);
+         
+        }
     }
 }

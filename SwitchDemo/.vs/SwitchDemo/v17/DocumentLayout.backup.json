@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|c:\\users\\saisa\\source\\repos\\switchdemo\\switchdemo\\switchfundemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|solutionrelative:switchdemo\\switchfundemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|c:\\users\\saisa\\source\\repos\\switchdemo\\switchdemo\\switchdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|solutionrelative:switchdemo\\switchdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|c:\\users\\saisa\\source\\repos\\switchdemo\\switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F6577B-2CFF-4F58-9D62-EB65FDE6D634}|SwitchDemo\\SwitchDemo.csproj|solutionrelative:switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwitchDemo",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\SwitchDemo.csproj",
+              "RelativeDocumentMoniker": "SwitchDemo\\SwitchDemo.csproj",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\SwitchDemo.csproj",
+              "RelativeToolTip": "SwitchDemo\\SwitchDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T01:13:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchFunDemo.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\SwitchFunDemo.cs",
+              "RelativeDocumentMoniker": "SwitchDemo\\SwitchFunDemo.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\SwitchFunDemo.cs",
+              "RelativeToolTip": "SwitchDemo\\SwitchFunDemo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:54:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\SwitchDemo\\SwitchDemo\\Program.cs",
+              "RelativeToolTip": "SwitchDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:53:58.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

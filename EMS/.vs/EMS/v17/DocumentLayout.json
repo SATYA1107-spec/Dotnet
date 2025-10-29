@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|c:\\users\\saisa\\source\\repos\\ems\\ems\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|solutionrelative:ems\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|c:\\users\\saisa\\source\\repos\\ems\\ems\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|solutionrelative:ems\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|c:\\users\\saisa\\source\\repos\\ems\\ems\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|solutionrelative:ems\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|c:\\users\\saisa\\source\\repos\\ems\\ems\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA93066-8C20-4550-800F-D6B1A799A6CC}|EMS\\EMS.csproj|solutionrelative:ems\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T14:50:24.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T05:20:14.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T05:16:17.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\EMS\\EMS\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T04:06:14.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

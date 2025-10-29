@@ -1,0 +1,15 @@
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\bin\Debug\net8.0\Deligatespracticcce.exe
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\bin\Debug\net8.0\Deligatespracticcce.deps.json
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\bin\Debug\net8.0\Deligatespracticcce.runtimeconfig.json
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\bin\Debug\net8.0\Deligatespracticcce.dll
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\bin\Debug\net8.0\Deligatespracticcce.pdb
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.AssemblyInfoInputs.cache
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.AssemblyInfo.cs
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.csproj.CoreCompileInputs.cache
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.sourcelink.json
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.dll
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\refint\Deligatespracticcce.dll
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.pdb
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\Deligatespracticcce.genruntimeconfig.cache
+C:\Users\saisa\source\repos\Deligatespracticcce\Deligatespracticcce\obj\Debug\net8.0\ref\Deligatespracticcce.dll

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|c:\\users\\saisa\\source\\repos\\asynchrnyousthreading\\asynchrnyousthreading\\tasktexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|solutionrelative:asynchrnyousthreading\\tasktexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|c:\\users\\saisa\\source\\repos\\asynchrnyousthreading\\asynchrnyousthreading\\asynchrnyousthreading.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|solutionrelative:asynchrnyousthreading\\asynchrnyousthreading.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|c:\\users\\saisa\\source\\repos\\asynchrnyousthreading\\asynchrnyousthreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086783B-F84A-46EF-85B9-47E7FBF7903A}|AsynchrnyousThreading\\AsynchrnyousThreading.csproj|solutionrelative:asynchrnyousthreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsynchrnyousThreading",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\AsynchrnyousThreading.csproj",
+              "RelativeDocumentMoniker": "AsynchrnyousThreading\\AsynchrnyousThreading.csproj",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\AsynchrnyousThreading.csproj",
+              "RelativeToolTip": "AsynchrnyousThreading\\AsynchrnyousThreading.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T11:20:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskTExample.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\TaskTExample.cs",
+              "RelativeDocumentMoniker": "AsynchrnyousThreading\\TaskTExample.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\TaskTExample.cs",
+              "RelativeToolTip": "AsynchrnyousThreading\\TaskTExample.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:13:30.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\Program.cs",
+              "RelativeDocumentMoniker": "AsynchrnyousThreading\\Program.cs",
+              "ToolTip": "C:\\Users\\saisa\\source\\repos\\AsynchrnyousThreading\\AsynchrnyousThreading\\Program.cs",
+              "RelativeToolTip": "AsynchrnyousThreading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:03:29.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

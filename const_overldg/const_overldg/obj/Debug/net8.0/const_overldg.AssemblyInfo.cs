@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("const_overldg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1440165fda2fe928a8a057f4c89f6f2206d29e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed01b701d74147d27fbdea04c44daa7ee1b09cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("const_overldg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("const_overldg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
